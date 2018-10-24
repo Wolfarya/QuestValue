@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "false.html",
+    "currentPage": "true.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
       "settings": {
         "main": true,
         "title": "[FEH] Łady Clair Society",
-        "meta_descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc metus sapien, suscipit non condimentum nec, suscipit vitae est. Ut sapien enim, cursus et varius in, feugiat id dui. Aliquam ultricies suscipit nulla vel molestie. Sed convallis leo arcu, eu laoreet risus scelerisque in. Etiam erat libero, luctus ac felis ut, mollis euismod magna. Mauris vitae porttitor dui. Donec id metus augue. Cras mattis magna iaculis velit posuere condimentum. Sed vitae arcu urna. Quisque quis lorem suscipit, aliquam ante at, luctus leo. Nulla turpis sem, rhoncus id dolor in, viverra tincidunt turpis. Curabitur luctus risus ut commodo consectetur. Aliquam id dui ac quam suscipit accumsan. Cras sodales, turpis non ultricies eleifend, massa justo lobortis ex, nec semper arcu nibh in dolor. Morbi interdum sem id volutpat pulvinar. Aenean in commodo quam, et fringilla sem. Suspendisse semper tellus id facilisis dictum.\n__________________________\nChange the value false to true for discover some secrets",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
