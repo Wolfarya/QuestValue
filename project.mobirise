@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "true.html",
+    "currentPage": "false.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -497,7 +497,7 @@
     },
     "true.html": {
       "settings": {
-        "meta_descr": "Clair is a classic case of a character that starts out weak, but after a few levels they wind up holding their own and eventually wind up being great units. This is commonly the case with Pegasus Knights, and Clair is no exception. She starts off doing low damage and you will need to feed her experience for a few levels before she comes up to task. She will, however, inevitably end up with very low Defense, so it might be a good idea to give her a Javelin.\n\nIn Alm's route, she can be very useful since she is the only Pegasus Knight that Alm can recruit, and thus the only unit that can fly over walls to get to ranged units or Cantors.\n\nWhen considering all of the Pegasus Knights in Gaiden, Clair is very agile but fragile. Catria and Est are both strong all rounders whose balance between Speed and Strength usually makes them the most offensively potent, and Palla is strong and durable but slow for a Pegasus Knight.\n__________________________\n\nThe realm of fairy-story is wide and deep and high and filled with many things. Beauty that is an enchantment, and an ever-present peril, Clair's joy and sorrow sharp as swords.\nThere is more than the Master Key, it exist a overpowered Item call : \"Thunder Falcon's whistle\".\n\nThere is only two ways to get this Legendary Item, and I know one of it is to go in the deepest abyss of the world.\nYou must have the required level, over 75 minimum.\nI don't know the other one, but I heared rhat if you take the paths of the shadows, you should get to the Item without having to increase your level. But there are trials on the islands of the sky, are insanly hard.\n\nTo be continued..",
+        "meta_descr": "Clair is a classic case of a character that starts out weak, but after a few levels they wind up holding their own and eventually wind up being great units. This is commonly the case with Pegasus Knights, and Clair is no exception. She starts off doing low damage and you will need to feed her experience for a few levels before she comes up to task. She will, however, inevitably end up with very low Defense, so it might be a good idea to give her a Javelin.\n\nIn Alm's route, she can be very useful since she is the only Pegasus Knight that Alm can recruit, and thus the only unit that can fly over walls to get to ranged units or Cantors.\n\nWhen considering all of the Pegasus Knights in Gaiden, Clair is very agile but fragile. Catria and Est are both strong all rounders whose balance between Speed and Strength usually makes them the most offensively potent, and Palla is strong and durable but slow for a Pegasus Knight.\n__________________________\n\nThe realm of fairy-story is wide and deep and high and filled with many things. Beauty that is an enchantment, and an ever-present peril, Clair's joy and sorrow sharp as swords.\nThere is more than the Master Key, it exist a overpowered Item call : \"Thunder Falcon's whistle\".\n\nTake this with you : \"1evIwaY\"",
         "title": "[Quest] Łady Clair Secret Message",
         "order": 2
       },
